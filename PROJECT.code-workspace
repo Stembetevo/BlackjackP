@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../passenger app/PROJECT"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BlackjackP"
+	}
+}
