@@ -1,0 +1,24 @@
+body{
+    font-family:sans-serif;
+    background-image: url(/table.png);
+    font-weight: bold;
+    color:papayawhip;
+    text-align: center;
+    background-size: cover;
+}
+
+h1{
+    color:yellow;
+}
+
+#message-el{
+    font-style: oblique;
+}
+
+button{
+    color:darkblue;
+    background-color:red;
+    padding:5px 0 5px 0;
+    border: none;
+    width: 150px;
+}
